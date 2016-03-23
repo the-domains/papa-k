@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PAPA K. STORE]]></title>
         <description><![CDATA[PAPA K. STORE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/papa-k/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 03:58:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 04:08:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/papa-k/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Welcome to PAPA K. STORE!]]></title>
-            <description><![CDATA[<article><h1>Welcome to PAPA K. STORE!</h1><p>PAPA K. International Delivery</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8e02212339f438f43186250a2233eb0a7247664.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-papa-k-store/index.html</link>
+            <title><![CDATA[RATE]]></title>
+            <description><![CDATA[<article><h1>RATE</h1><p>Welcome to PAPA K. STORE!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b27a31d06db7c87bff34c9116216b0e5166acf95.jpg"></article>]]></description>
+            <link>https://thegrid.ai/papa-k/welcome-to-papa-k-store/index.html</link>
             <guid isPermaLink="false">5edd82ed-3427-4d9a-9e96-1d502984f0b1</guid>
-            <pubDate>Wed, 23 Mar 2016 03:57:54 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 04:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
